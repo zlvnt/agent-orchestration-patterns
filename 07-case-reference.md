@@ -13,6 +13,8 @@ A multi-agent system for health and nutrition tracking. One supervisor (orchestr
 
 Stack: Python, FastAPI, LangGraph supervisor, Claude / Minimax-M2.7 (multi-provider), PostgreSQL (user data + checkpointer), Qdrant + fastembed (nutrition RAG), Next.js frontend.
 
+This guide grew out of that project. The full source, including every file referenced in Section 7.3, lives in the project repository: https://github.com/zlvnt/Health-Intelligence-Agent
+
 ## 7.2 What it demonstrates
 
 This project is a working example of every section in this guide.

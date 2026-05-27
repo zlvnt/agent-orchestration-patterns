@@ -171,7 +171,7 @@ For specialists whose reply goes directly to the user (e.g., billing or technica
 ```
 Your reply is forwarded directly to the end user by the supervisor. Reply concisely
 to the user. Do not address the supervisor. Do not include greetings, sign-offs, or
-offers of further help — those are added by other parts of the system.
+offers of further help, those are added by other parts of the system.
 ```
 
 For specialists whose reply is consumed by the supervisor for routing decisions (e.g., a triage step before an action specialist runs):
